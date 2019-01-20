@@ -1,4 +1,6 @@
 # find-certain-days
+[![Build Status](https://travis-ci.org/hdkhoa162/find-certain-days.svg?branch=master)](https://travis-ci.org/hdkhoa162/find-certain-days)
+
 This plugin returns all the rest certain days for the given specific weekday in a whole year.
 
 ## Install
