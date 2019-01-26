@@ -1,6 +1,6 @@
 {
     "name": "find-certain-days",
-    "version": "1.0.10",
+    "version": "1.0.12",
     "description": "Find and return all the rest certain days for the given specific weekday in a whole year",
     "main": "index.js",
     "author": "Khoa Huynh",
