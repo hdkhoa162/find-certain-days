@@ -1,5 +1,6 @@
-# find-certain-days
+# find-certain-days 
 [![Build Status](https://travis-ci.org/hdkhoa162/find-certain-days.svg?branch=master)](https://travis-ci.org/hdkhoa162/find-certain-days)
+[![NPM total downloads](https://img.shields.io/npm/dm/find-certain-days.svg?style=flat)](https://npmcharts.com/compare/find-certain-days?minimal=true)
 
 This plugin returns all the rest certain days for the given specific weekday in a whole year.
 
