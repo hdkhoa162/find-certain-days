@@ -1,6 +1,6 @@
 {
     "name": "find-certain-days",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "description": "Find and return all the rest certain days for the given specific weekday in a whole year",
     "main": "index.js",
     "author": "Khoa Huynh",
@@ -16,6 +16,13 @@
     },
     "keywords": [
         "npm",
+        "days",
+        "certain",
+        "find",
+        "finds",
+        "all days",
+        "all",
+        "moment.js",
         "find_certain_days"
     ],
     "repository": {
